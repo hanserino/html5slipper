@@ -3,9 +3,9 @@
  ================================================================================  */
 var mobileWidth = 650,
 	defaultAnimationSpeed = 300,
-	$smallClass = 'small',
-	$mediumClass = 'medium',
-	$largeClass = 'large';
+	smallClass = 'small',
+	mediumClass = 'medium',
+	largeClass = 'large';
 
 
 /*  ================================================================================
